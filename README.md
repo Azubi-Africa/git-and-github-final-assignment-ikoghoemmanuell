@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | Python-Tip-Calculator              |  -             | https://github.com/ikoghoemmanuell/Python-Tip-Calculator       |
+| 2 | Sales-Dashboard-Analysis              |  -             | https://github.com/ikoghoemmanuell/Sales-Dashboard-Analysis       |
+| 3 | Sales-Operations-Planner              |  -             | https://github.com/ikoghoemmanuell/Sales-Operations-Planner       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
